@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "678745861248",
+    "project_id": "client-manager-9a121",
+    "storage_bucket": "client-manager-9a121.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678745861248:android:3b89a3f67b85984ae0ca65",
+        "android_client_info": {
+          "package_name": "com.pasara.testing_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678745861248-a04puqb1qji0k6d4kbqs7hsht8m8dvtm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbuT1TWlGCPbH6-HLcbXt1e1YHNWhj7bQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678745861248-a04puqb1qji0k6d4kbqs7hsht8m8dvtm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "678745861248-75jdqj02g923439rh3s5o25jm9m7hq7d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pasara.testingApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
